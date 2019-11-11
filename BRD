@@ -1,2 +1,2 @@
-Select * From Customers
+Select * From Members
 Where City in ('New York, 'San Francisco, 'Dallas')
