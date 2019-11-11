@@ -1,0 +1,2 @@
+Select * From Customers
+Where City in ('New York, 'San Francisco, 'Dallas')
